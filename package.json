@@ -1,0 +1,19 @@
+{
+  "name": "nextbus_wrapper",
+  "version": "1.0.0",
+  "description": "A wrapper for the Nextbus API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NextBus"
+  ],
+  "author": "Louis Mark",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.10.2",
+    "npm": "^5.6.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
