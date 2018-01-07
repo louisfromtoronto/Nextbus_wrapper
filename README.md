@@ -4,7 +4,8 @@ can read more about the NextBus Public XML Feed [here](https://www.nextbus.com/x
 
 This wrapper will allow users to make calls to the XML feed, and will return
 representations of the NextBus data in JavaScript-friendly formats, such as JSON,
-arrays or dictionaries.
+arrays or dictionaries. This wrapper will completely handle making the appropriate
+HTTP GET requests.
 
 ## Getting Started
 Clone the repository to your system. Open the repository directory in Terminal,
